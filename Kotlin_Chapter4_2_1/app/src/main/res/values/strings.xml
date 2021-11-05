@@ -1,0 +1,11 @@
+<resources>
+    <!--다른 name에 같은 글자 가능, 같은 name에 다른 글자 불가능, text에 공백 불가-->
+    <string name="app_name">Kotlin_Chapter4_2_1</string>
+    <string name="string_01">화면에 보여질 글자 01</string>
+    <string name="string_02">화면에 보여질 글자 02</string>
+    <!--줄 바꿈 첫 번째 예-->
+    <string name="test">"뉴라인
+    테스트"</string>
+    <!--줄 바꿈 두 번째 예-->
+    <string name="test2">"뉴라인\n테스트"</string>
+</resources>
